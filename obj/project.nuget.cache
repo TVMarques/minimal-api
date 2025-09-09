@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ICmbV/qVmzI=",
+  "dgSpecHash": "gJ5LTIUBSHg=",
   "success": true,
-  "projectFilePath": "c:\\Users\\thiag\\minimal-api\\minimal-api.csproj",
+  "projectFilePath": "C:\\Users\\thiag\\minimal-api\\minimal-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thiag\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
